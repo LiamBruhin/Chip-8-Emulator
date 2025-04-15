@@ -1,1 +1,1 @@
-gcc -Wall -std=c99 -o main ../main.c -lraylib
+gcc -Wall -std=c99 -g -o main ../main.c -lraylib
